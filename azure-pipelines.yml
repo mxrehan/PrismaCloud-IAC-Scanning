@@ -14,7 +14,7 @@ steps:
     inputs:
       Path: '.'  # The .prismaCloud/config.yml sets the subdirectory
       prismaCloudService: 'PrismaCloud IAC QA'
-      High: '1'
-      Medium: '2'
-      Low: '3'
+      High: '0'
+      Medium: '0'
+      Low: '0'
       Operator: 'or'
